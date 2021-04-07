@@ -235,7 +235,10 @@ p {
 
 
 /* *********HeroImage ******* */
-
+.hero-image-content {
+  width: 100%;
+  min-width: 320px;
+}
 .hero-image {
     background-image: var(--hero-image);
     background-repeat: no-repeat;
