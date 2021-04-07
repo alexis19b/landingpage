@@ -571,8 +571,8 @@ progress::-moz-progress-bar {
 
 .portfolio-modal {
     background-color: var(--white-color);
-    padding: 1rem;
-    max-width: 400px;
+    padding: 0.3rem;
+    max-width: 380px;
     display: flex;
     flex-direction: column;
 }
@@ -580,13 +580,13 @@ progress::-moz-progress-bar {
 .portfolio-modal h3 {
     border-bottom: medium solid var(--first-color);
     padding: 0.5rem 0;
-    margin: 1rem auto;
+    margin: 0.5rem auto;
     color: var(--title-color);
 }
 .portfolio-details {
     display: grid;
     grid-template-columns: 40% 60%;
-    grid-auto-rows: 2rem; 
+    grid-auto-rows: 1.7rem; 
 }
 .portfolio-details b {
     color: var(--first-color);
