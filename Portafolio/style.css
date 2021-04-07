@@ -568,6 +568,10 @@ progress::-moz-progress-bar {
     width: 100%;
     height: 100%;
 }
+.portfolio-info p {
+    line-height: 1.3;
+    font-size: 15px;
+}
 
 .portfolio-modal {
     background-color: var(--white-color);
